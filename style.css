@@ -1,10 +1,19 @@
 img{
-    width: 200px;
+    width: 400px;
 }
 
 body {
     text-align: center;
-    Font-family: 'Arial';
+    font: 'Georgia';
     background: darkorange;
     color: gold;
 }
+
+h1{
+    font: italic bold 48pt;
+}
+
+p {
+    font-size: 28pt;
+}
+    
