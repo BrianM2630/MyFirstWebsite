@@ -10,13 +10,13 @@ body {
 }
 
 h1 {
-    font: italic bold 78pt;
+    font: bold 78pt;
 }
 
 h2{
-    font: italic 40pt;
+    font: 40pt;
 }
 
 p {
-    font: italic 24pt;
+    font: 14pt;
 }
