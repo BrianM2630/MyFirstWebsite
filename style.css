@@ -5,14 +5,18 @@ img{
 body {
     text-align: center;
     Font-family: 'Georgia';
-    background: darkorange;
-    color: gold;
+    background: mediumseagreen;
+    color: white;
 }
 
 h1 {
-    font: italic bold 64pt;
+    font: italic bold 78pt;
+}
+
+h2{
+    font: italic 40pt;
 }
 
 p {
-    font: italic 28pt;
+    font: italic 24pt;
 }
