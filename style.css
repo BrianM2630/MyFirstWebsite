@@ -17,6 +17,10 @@ h2{
     font: 40pt;
 }
 
+li {
+    text-align: start;
+}
+
 p {
     font: 14pt;
 }
