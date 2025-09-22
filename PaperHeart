@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="sylesheet" href="syle.css" />
+    <title>PaperHeart</title>
+  </head>
+
+  <body>
+    <h1>How to make a paper heart</h1>
+
+    <img src="Images/paperHeart.jpg" />
+
+    <h2>Instructions</h2>
+
+    <ol>
+      <li>Fold your paper in half to form a triangle.</li>
+      <li>Open it and fold it half again the other way.</li>
+      <li>Fold the top point down to meet the center where your previous folds meet.</li>
+      <li>Take the bottom point and fold it up to meet the top of your paper.</li>
+      <li>Take the right-hand side of your paper and fold it up to meet the center crease. The edge should be touching the center crease.</li>
+      <li>Do the same on the left.</li>
+      <li>Flip your heart over and fold over the left and right points.</li>
+      <li>Do the same for the top two points.</li>
+    </ol>
+
+  </body>
+
+</html>
